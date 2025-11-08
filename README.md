@@ -1,4 +1,4 @@
-# 🚀 Complete Git Guide - By WebXWizard
+# 🚀 Complete Git and GitHub - By WebXWizard
 
 A complete beginner-to-advanced guide for mastering **Git** — your ultimate version control tool.
 
